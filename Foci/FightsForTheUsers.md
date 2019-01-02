@@ -2,7 +2,7 @@
 
 Some programs hold animosity for the users, but you are different.  You stand for the users, protect the users, fight for the users.  
 
-Connection: If this is your starting focus, choose one of the following connections.
+**Connection:** If this is your starting focus, choose one of the following connections.
 
 1. Example
 2. Example
