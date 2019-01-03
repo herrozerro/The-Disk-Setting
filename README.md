@@ -1,6 +1,6 @@
 # The Disk: a Cypher System Setting
 
-A setting for Cypher System reminiscent of media like tron or reboot.
+A setting for Cypher System reminiscent of media like TRON or Reboot.
 
 ## Objectives
 
@@ -15,7 +15,7 @@ What I am hoping to put here is the basics for a game.  Descriptors, Foci, Creat
 
 * [Writes To The Command Line](./Foci/WritesToTheCommandLine.md)
 * [Fights For The Users](./Foci/FightsForTheUSers.md)
-* [CompilesNewPrograms](./Foci/CompilesNewPrograms.md)
+* [Compiles New Programs](./Foci/CompilesNewPrograms.md)
 
 ### Malware (Monsters)
 
