@@ -16,3 +16,5 @@ You are naturally gifted in getting a lot of things done.  People around you mig
 2. One of the PC's hired you for your skills, though she didn't know how much of a handful it is to keep you on track.
 3. You've recently awoken with this ability and it scares you, you joined up with the group to try and find answers.
 4. One of the PC's rescued you from a data warehouse, you feel obligated to come along on this adventure.
+
+test edit
