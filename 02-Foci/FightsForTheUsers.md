@@ -4,7 +4,7 @@ Some programs hold animosity for the users, but you are different.  You stand fo
 
 **Connection:** If this is your starting focus, choose one of the following connections.
 
-1. Example
+1. Choose another PC, you believe that they have encountered a user and are dying to know more.
 2. Example
 3. Example
 4. Example
